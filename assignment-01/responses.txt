@@ -6,4 +6,6 @@
     A directory is like a filing cabinet, and the files are in the different drawers.
     
     Because a group of people can work on the same project at the same time and save the changes for a merged final project.
+    
+    
 
