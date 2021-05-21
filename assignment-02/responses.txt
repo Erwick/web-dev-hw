@@ -1,0 +1,7 @@
+1. TCP - Transport Control Protocol
+
+2. DNS converts the ip address into a Domain name.
+
+3. A cookie is a file that contains your computers information while your on the network.
+
+4. Protocol, Domain name, Path
